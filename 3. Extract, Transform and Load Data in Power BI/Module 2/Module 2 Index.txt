@@ -1,0 +1,40 @@
+In this module, you'll practice cleaning and transforming data to prepare for data modeling in later courses.
+
+Why data needs to be transformed
+Video•. Duration: 4 minutes
+
+Introduction to Power Query and its interface
+Video•. Duration: 5 minutes
+
+The Applied Steps list
+Video•. Duration: 5 minutes
+
+Working with columns
+Video•. Duration: 5 minutes
+
+Dealing with errors in Power Query
+Video•. Duration: 6 minutes
+
+Unpivot and pivot columns
+Video•. Duration: 7 minutes
+
+The Importance of data combination
+Video•. Duration: 3 minutes
+
+Combining tables with append
+Video•. Duration: 4 minutes
+
+What is a join?
+Video•. Duration: 3 minutes
+
+Join types
+Video•. Duration: 4 minutes
+
+Combining tables with merge
+Video•. Duration: 7 minutes
+
+Identifying a new potential product
+Video•. Duration: 3 minutes
+
+Module summary: Transforming data in Power BI
+Video•. Duration: 5 minutes

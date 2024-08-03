@@ -1,0 +1,25 @@
+In this module, you will revise key concepts related to deploying and maintaining assets in Power BI to prepare for the PL-300 exam.
+
+Workspaces and workspace roles
+Video•. Duration: 5 minutes5 min
+
+Workspace apps
+Video•. Duration: 4 minutes4 min
+
+Subscriptions and data alerts
+Video•. Duration: 4 minutes4 min
+
+Promote or certify Power BI content
+Video•. Duration: 5 minutes5 min
+
+Data gateways
+Video•. Duration: 6 minutes6 min
+
+Row-level security
+Video•. Duration: 8 minutes8 min
+
+Providing access to datasets
+Video•. Duration: 5 minutes5 min
+
+Module Summary: Deploy and maintain assets
+Video•. Duration: 5 minutes5 min

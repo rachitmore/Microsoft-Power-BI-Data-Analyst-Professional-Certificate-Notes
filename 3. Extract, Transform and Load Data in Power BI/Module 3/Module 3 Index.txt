@@ -1,0 +1,37 @@
+In this module, you'll gain an understanding of the load portion of the ETL process and practice data profiling and advanced queries.
+
+Introduction to loading data
+Video•. Duration: 3 minutes
+
+The Staging Area in Power BI
+Video•. Duration: 4 minutes
+
+Introduction to data profiling
+Video•. Duration: 4 minutes
+
+Profiling Data in Power BI
+Video•. Duration: 7 minutes
+
+Vignette: Bad data
+Video•. Duration: 4 minutes
+
+Best practices when working with Power Query
+Video•. Duration: 5 minutes
+
+Introduction to dataflows
+Video•. Duration: 5 minutes
+
+Introduction to Reference Queries
+Video•. Duration: 4 minutes
+
+Reference queries and dataflows
+Video•. Duration: 3 minutes
+
+Query parameters
+Video•. Duration: 4 minutes
+
+Using Advanced Editor to modify code
+Video•. Duration: 5 minutes
+
+Module Summary: Advanced ETL in PowerBI
+Video•. Duration: 5 minutes

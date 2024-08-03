@@ -1,0 +1,4 @@
+In this module, you will engage in a hands-on learning experience. You will have the opportunity to fine tune your skills and build on what you have already learned in this course.
+Project overview: Deploy and maintain assets in Power BI Service
+
+Guided project: Deploy and maintain assets in Power BI Service

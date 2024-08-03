@@ -1,0 +1,46 @@
+In this module, you will discover how to improve accessibility and user experience in reports.
+
+Accessibility in reports
+Video•. Duration: 7 minutes
+
+Formatting and configuring visualizations
+Video•. Duration: 6 minutes
+
+Conditional formatting
+Video•. Duration: 5 minutes
+
+Working with themes
+Video•. Duration: 6 minutes
+
+Adding custom tooltips
+Video•. Duration: 6 minutes
+
+Report hierarchies
+Video•. Duration: 6 minutes
+
+Report drillthrough
+Video•. Duration: 4 minutes
+
+Sorting and filtering data in reports
+Video•. Duration: 6 minutes
+
+Cross-filter and cross-highlight
+Video•. Duration: 5 minutes
+
+Adding slicers
+Video•. Duration: 7 minutes
+
+Adding buttons
+Video•. Duration: 5 minutes
+
+Adding bookmarks
+Video•. Duration: 4 minutes
+
+Group and layer visuals
+Video•. Duration: 4 minutes
+
+DAX filter context in visualizations
+Video•. Duration: 6 minutes
+
+Module summary: Navigation and Accessibility
+Video•. Duration: 6 minutes

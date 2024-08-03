@@ -1,0 +1,34 @@
+This module introduces the learner to the role of a Data Analyst, key data analysis concepts and how data plays an important role in business. The learner is briefly introduced to Power BI as tool for data analysis.
+
+Course introduction
+Video•. Duration: 6 minutes6 min
+
+What is the role of a Data Analyst?
+Video•. Duration: 5 minutes5 min
+
+Roles working with data
+Video•. Duration: 5 minutes5 min
+
+Essential data analyst skills
+Video•. Duration: 4 minutes4 min
+
+Gathering the right data
+Video•. Duration: 4 minutes4 min
+
+Processing and analyzing the data
+Video•. Duration: 4 minutes4 min
+
+How data insights drive business
+Video•. Duration: 5 minutes5 min
+
+Introduction to Power BI
+Video•. Duration: 6 minutes6 min
+
+Power BI Desktop, service and Mobile
+Reading•. Duration: 10 minutes10 min
+
+Analyzing data with Power BI
+Video•. Duration: 4 minutes4 min
+
+Module summary: Data analysis in business
+Video•. Duration: 3 minutes3 min

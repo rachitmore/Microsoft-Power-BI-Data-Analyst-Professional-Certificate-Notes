@@ -1,0 +1,43 @@
+In this module, you will revise key concepts related to visualizing and analzying data in Power BI to prepare for the PL-300 exam.
+
+Using appropriate visualizations
+Video•. Duration: 5 minutes
+
+Configuring and formatting visualizations
+Video•. Duration: 3 minutes
+
+Slicing and filtering
+Video•. Duration: 3 minutes
+
+Report navigation and sorting
+Video•. Duration: 6 minutes
+
+Interactions between visuals
+Video•. Duration: 5 minutes
+
+Sync slicers
+Video•. Duration: 4 minutes
+
+Group and layer visuals by using the Selection pane
+Video•. Duration: 4 minutes
+
+Design reports for mobile devices
+Video•. Duration: 5 minutes
+
+Detect outliers and anomalies
+Video•. Duration: 4 minutes
+
+Grouping and binning data
+Video•. Duration: 5 minutes
+
+AI visuals
+Video•. Duration: 5 minutes
+
+Reference lines and error bars
+Video•. Duration: 6 minutes
+
+Scorecards and metrics
+Video•. Duration: 5 minutes
+
+Module Summary: Visualize and Analyze data
+Video•. Duration: 6 minutes

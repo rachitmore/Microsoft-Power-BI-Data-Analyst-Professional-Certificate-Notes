@@ -1,0 +1,52 @@
+In this module, you'll be introduced to using visualization and reports in Microsoft Power BI to present data to stakeholders.
+
+Course introduction
+Video•. Duration: 5 minutes
+
+Analysis for Business Intelligence
+Video•. Duration: 6 minutes
+
+What are visualizations?
+Video•. Duration: 7 minutes
+
+Common visualizations
+Video•. Duration: 7 minutes
+
+Creating a basic report
+Video•. Duration: 7 minutes
+
+Table visualization
+Video•. Duration: 5 minutes
+
+Bar and column charts
+Video•. Duration: 6 minutes
+
+Line and area charts
+Video•. Duration: 7 minutes
+
+Combo charts
+Video•. Duration: 5 minutes
+
+Activity: Using bars, columns, and lines
+Reading•. Duration: 10 minutes
+
+Pie and donut charts
+Video•. Duration: 6 minutes
+
+Treemaps
+Video•. Duration: 5 minutes
+
+Displaying Key Performance Indicators
+Video•. Duration: 5 minutes
+
+Ribbon and waterfall charts
+Video•. Duration: 6 minutes
+
+Funnel charts
+Video•. Duration: 5 minutes
+
+Scatter charts
+Video•. Duration: 7 minutes
+
+Module summary: Creating Reports
+Video•. Duration: 4 minutes

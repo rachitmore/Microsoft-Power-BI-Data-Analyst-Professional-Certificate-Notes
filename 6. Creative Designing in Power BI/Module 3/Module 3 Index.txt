@@ -1,0 +1,34 @@
+In this week you will compare designing a dashboard, in contrast to designing a report. You also get to explore the principles of data storytelling.
+
+Dashboard vs Report design
+Video•. Duration: 8 minutes
+
+Targeting the end-user
+Video•. Duration: 6 minutes
+
+Optimize a dashboard for mobile phones
+Video•. Duration: 5 minutes
+
+Working with multiple dashboards
+Video•. Duration: 4 minutes
+
+Dashboards and Media
+Video•. Duration: 7 minutes
+
+Adding Media to dashboards
+Video•. Duration: 4 minutes
+
+QR codes in dashboards
+Video•. Duration: 4 minutes
+
+What is Data Storytelling?
+Video•. Duration: 5 minutes
+
+Story Elements
+Video•. Duration: 5 minutes
+
+The storytelling process
+Video•. Duration: 4 minutes
+
+Module Summary: Dashboard Design and Storytelling
+Video•. Duration: 5 minutes

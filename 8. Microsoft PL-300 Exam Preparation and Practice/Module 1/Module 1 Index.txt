@@ -1,0 +1,40 @@
+In this module, you will revise key concepts related to preparing and loading data in Power BI to prepare for the PL-300 exam.
+
+Course introduction
+Video•. Duration: 5 minutes
+
+Introduction to preparing for the exam
+Video•. Duration: 4 minutes
+
+Identify and connect to a data source
+Video•. Duration: 4 minutes
+
+DirectQuery, Import, and Dual mode
+Video•. Duration: 4 minutes
+
+Parameter values
+Video•. Duration: 4 minutes
+
+Connecting to a dataflow
+Video•. Duration: 4 minutes
+
+Evaluating data, data statistics, and column properties
+Video•. Duration: 5 minutes
+
+Resolve inconsistencies and data quality issues
+Video•. Duration: 3 minutes
+
+Create and transform columns
+Video•. Duration: 4 minutes
+
+Identify when to use reference queries
+Video•. Duration: 3 minutes
+
+Merge and append queries
+Video•. Duration: 5 minutes
+
+Table relationships
+Video•. Duration: 3 minutes
+
+Module summary: Preparing data
+Video•. Duration: 3 minutes

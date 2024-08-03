@@ -1,0 +1,44 @@
+In this module, you'll be introduced to data analysis. You'll explore how to use visualizations and AI in Microsoft Power BI to perform an analysis of data.
+
+Introduction to analytics
+Video•. Duration: 6 minutes
+
+Statistical summary
+Video•. Duration: 6 minutes
+
+Statistics cheatsheet
+Reading•. Duration: 10 minutes
+
+Group and bin data for analysis
+Video•. Duration: 6 minutes
+
+Histograms and Top N
+Video•. Duration: 6 minutes
+
+Clustering techniques
+Video•. Duration: 6 minutes
+
+Continuous and categorical axes
+Video•. Duration: 5 minutes
+
+Using the Analyze feature
+Video•. Duration: 6 minutes
+
+Conducting a time series analysis
+Video•. Duration: 5 minutes
+
+Creating reference lines
+Video•. Duration: 6 minutes
+
+Forecasting
+Video•. Duration: 6 minutes
+
+Key Influencers
+Video•. Duration: 4 minutes
+
+Decomposition trees
+Video•. Duration: 6 minutes
+
+
+Module summary: Identifying Patterns and Trends
+Video•. Duration: 3 minutes

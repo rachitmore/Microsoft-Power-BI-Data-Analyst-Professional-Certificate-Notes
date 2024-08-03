@@ -1,0 +1,40 @@
+In this module, you will revise key concepts related to modeling data in Power BI to prepare for the PL-300 exam.
+
+Designing a schema
+Video•. Duration: 4 minutes4 min
+
+Implementing role-playing dimensions
+Video•. Duration: 4 minutes4 min
+
+Using CALCULATE to manipulate filters
+Video•. Duration: 3 minutes3 min
+
+Cardinality and cross-filter direction
+Video•. Duration: 6 minutes6 min
+
+Calculated Columns
+Video•. Duration: 4 minutes4 min
+
+Single aggregation measures
+Video•. Duration: 4 minutes4 min
+
+Implement time intelligence measures
+Video•. Duration: 6 minutes6 min
+
+Additive, semi-additive and non-additive measures
+Video•. Duration: 4 minutes4 min
+
+Calculated tables
+Video•. Duration: 5 minutes5 min
+
+Data hierachies
+Video•. Duration: 5 minutes5 min
+
+Using the Performance Analyzer
+Video•. Duration: 4 minutes4 min
+
+Improve performancing via cardinality and summarization
+Video•. Duration: 5 minutes5 min
+
+Module summary: Modeling data
+Video•. Duration: 5 minutes5 min

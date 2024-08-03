@@ -1,0 +1,22 @@
+This module introduces formulas and functions in Excel. It explores how these are important to data analysis and how these are used in business scenarios.
+
+What is a formula?
+Video•. Duration: 6 minutes
+
+Controlling calculations
+Video•. Duration: 6 minutes
+
+Order of precedence in calculations
+Reading•. Duration: 10 minutes10 min
+
+Controlling calculations in action
+Video•. Duration: 6 minutes6 min
+
+What is a function formula and how to write it
+Video•. Duration: 7 minutes
+
+Using the INSERT function
+Video•. Duration: 5 minutes
+
+Module summary: Formulas and functions
+Video•. Duration: 6 minutes

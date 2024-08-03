@@ -1,0 +1,43 @@
+In this module, you will audit, secure and monitor Power BI assets
+
+Safely sharing information
+Video•. Duration: 5 minutes
+
+Sharing via links
+Video•. Duration: 6 minutes
+
+Data sensitivity labels
+Video•. Duration: 4 minutes
+
+Leaking of sensitive data
+Video•. Duration: 3 minutes
+
+Dataset permissions
+Video•. Duration: 4 minutes
+
+Configuring dataset permissions
+Video•. Duration: 4 minutes
+
+Sharing outside your organization
+Video•. Duration: 3 minutes
+
+What is row-level security?
+Video•. Duration: 4 minutes
+
+Configuring static row-level security
+Video•. Duration: 3 minutes
+
+Dynamic row-level security with DAX
+Video•. Duration: 3 minutes
+
+Subscribing to reports and dashboards
+Video•. Duration: 4 minutes
+
+Configuring data alerts
+Video•. Duration: 6 minutes
+
+How data alerts prevented trading losses
+Video•. Duration: 3 minutes
+
+Module summary: Security and monitoring
+Video•. Duration: 6 minutes

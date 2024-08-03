@@ -1,0 +1,37 @@
+In this module, you will gain a larger view of Power BI in enterprise scenarios and how deploying and maintaining assets plays an important role in data-driven businesses
+
+Course introduction
+Video•. Duration: 7 minutes7 min
+
+How data flows through business
+Video•. Duration: 6 minutes6 min
+
+Data-driven enterprise
+Video•. Duration: 5 minutes5 min
+
+The important role of a data analyst
+Video•. Duration: 3 minutes3 min
+
+SQL in enterprise
+Video•. Duration: 4 minutes4 min
+
+Connecting to a SQL database
+Video•. Duration: 5 minutes5 min
+
+What are dynamic reports?
+Video•. Duration: 3 minutes3 min
+
+Creating a dynamic report
+Video•. Duration: 4 minutes4 min
+
+Creating a multi-value dynamic report
+Video•. Duration: 3 minutes3 min
+
+What-if parameters
+Video•. Duration: 5 minutes5 min
+
+Vignette: The world of data
+Video•. Duration: 4 minutes4 min
+
+Module summary: Power BI in enterprise
+Video•. Duration: 5 minutes5 min

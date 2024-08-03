@@ -1,0 +1,52 @@
+In this module, you will deploy Power BI assets and explore deployment pipelines and their importance in data integrity
+
+What is a workspace?
+Video•. Duration: 5 minutes
+
+Creating a workspace
+Video•. Duration: 3 minutes
+
+Assign workspace roles
+Video•. Duration: 4 minutes
+
+Creating workspace apps
+Video•. Duration: 5 minutes
+
+Monitoring workspace usage
+Video•. Duration: 4 minutes
+
+Creating a usage report
+Video•. Duration: 5 minutes
+
+Datasets in Power BI Service
+Video•. Duration: 4 minutes
+
+Power BI gateways
+Video•. Duration: 5 minutes
+
+Configure a dataset refresh
+Video•. Duration: 4 minutes
+
+Endorsing datasets
+Video•. Duration: 3 minutes
+
+Electric car manufacturing
+Video•. Duration: 2 minutes
+
+Development lifecycles
+Video•. Duration: 4 minutes
+
+Deployment pipeline
+Video•. Duration: 3 minutes
+
+Impact analysis and lineage
+Video•. Duration: 5 minutes
+
+Improving performance with caching
+Video•. Duration: 4 minutes
+
+Troubleshoot service connectivity
+Video•. Duration: 5 minutes
+
+Module summary: Deploying assets
+Video•. Duration: 6 minutes

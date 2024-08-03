@@ -1,0 +1,81 @@
+In this module, you'll be introduced to dashboards and how they differ from reports, as well as publishing and exporting reports.
+
+What is a dashboard?
+Video•. Duration: 6 minutes
+
+Creating a dashboard
+Video•. Duration: 5 minutes
+
+Improving usability in dashboards
+Video•. Duration: 6 minutes
+
+Limitations of pinned visuals
+Video•. Duration: 5 minutes
+
+Activity: Preparing a simple workspace
+
+Reading•. Duration: 10 minutes
+Exercise: Building a dashboard
+
+Reading•. Duration: 30 minutes
+Self-review: Building a dashboard
+
+Practice Quiz•3 questions
+Complete previous item to unlock
+Exemplar: Building a dashboard
+
+Reading•. Duration: 10 minutes
+Knowledge check: Creating Dashboards
+
+Practice Quiz•5 questions
+Additional resources: Creating Dashboards
+
+Reading•. Duration: 5 minutes
+
+Publishing reports
+Video•. Duration: 4 minutes
+
+Pagination and exporting reports
+Video•. Duration: 4 minutes
+
+Report page properties
+
+Reading•. Duration: 10 minutes
+Exercise: Sharing a report
+
+Reading•. Duration: 30 minutes
+Self-review: Sharing a report
+
+Practice Quiz•3 questions
+Complete previous item to unlock
+Exemplar: Sharing a report
+
+Reading•. Duration: 10 minutes
+Activity: Analyze in Excel
+
+Reading•. Duration: 10 minutes
+Knowledge check: Sharing with Stakeholders
+
+Practice Quiz•5 questions
+Additional resources: Sharing with Stakeholders
+
+Reading•. Duration: 10 minutes
+
+Introduction to the Performance Analyzer
+Video•. Duration: 6 minutes
+
+Tuning report performance
+
+Reading•. Duration: 10 minutes
+
+Resolving performance issues in DAX
+Video•. Duration: 8 minutes
+
+Using variables for performance
+Video•. Duration: 8 minutes
+
+Using variables for troubleshooting
+Video•. Duration: 8 minutes
+
+Module summary: Bringing Data to the User
+Video•. Duration: 7 minutes

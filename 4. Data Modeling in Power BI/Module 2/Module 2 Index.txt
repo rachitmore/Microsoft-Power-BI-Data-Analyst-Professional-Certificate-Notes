@@ -1,0 +1,70 @@
+This module introduces the learner to the DAX (Data Analysis Expressions) language. The module explores the syntax of DAX using multiple business use cases. The module also integrates DAX with previous lessons on database tables and their use and introduces the concept of time intelligence.
+
+Introduction to Data Analysis Expressions (DAX)
+Video•. Duration: 5 minutes
+
+Row context and filter context
+Video•. Duration: 5 minutes
+
+Formulas and functions in DAX
+Video•. Duration: 5 minutes
+
+Introduction to calculated tables
+Video•. Duration: 4 minutes
+
+Creating calculated columns
+Video•. Duration: 4 minutes
+
+Introduction to measures
+Video•. Duration: 4 minutes
+
+Types of measures
+Video•. Duration: 4 minutes
+
+Basic statistical functions
+Video•. Duration: 5 minutes
+
+Context and DAX measures
+Video•. Duration: 4 minutes
+
+Creating quick measures
+Video•. Duration: 5 minutes
+
+Creating custom measures with DAX
+Video•. Duration: 4 minutes
+
+Introduction to the CROSSFILTER function
+Video•. Duration: 4 minutes
+
+Using CALCULATE with filters
+Video•. Duration: 5 minutes
+
+Introduction to role-playing dimensions
+Video•. Duration: 5 minutes
+
+Introduction to the USERELATIONSHIP function
+Video•. Duration: 4 minutes
+
+Configuring role-playing dimensions
+Video•. Duration: 2 minutes
+
+The importance of time intelligence
+Video•. Duration: 4 minutes
+
+Using DAX for summarization over time
+Video•. Duration: 6 minutes
+
+Using DAX for comparison over time
+Video•. Duration: 5 minutes
+
+Setting up a common date table
+Video•. Duration: 5 minutes
+
+Setting up a common date table with M and Power Query
+Video•. Duration: 3 minutes
+
+Time intelligence in business
+Video•. Duration: 2 minutes
+
+Module summary: Using DAX in Power BI
+Video•. Duration: 6 minutes

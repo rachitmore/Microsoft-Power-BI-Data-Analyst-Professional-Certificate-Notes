@@ -1,0 +1,4 @@
+In this module, you will engage in a hands-on learning experience. You will have the opportunity to fine tune your skills and build on what you have already learned in this course.
+Project overview: Data Analysis and Visualization with Microsoft Power BI
+
+Guided project: Data Analysis and Visualization with Microsoft Power BI

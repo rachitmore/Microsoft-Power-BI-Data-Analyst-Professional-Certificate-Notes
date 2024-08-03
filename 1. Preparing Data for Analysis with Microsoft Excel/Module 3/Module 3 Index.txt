@@ -1,0 +1,19 @@
+The module introduces common functions that help prepare Excel data for analysis in tools such as Power BI.
+
+How inconsistent data can affect data analysis
+Video•. Duration: 6 minutes
+
+Why understanding date calculations is important
+Video•. Duration: 5 minutes
+
+Dynamic date and time entries
+Video•. Duration: 5 minutes
+
+Using the IF function
+Video•. Duration: 7 minutes
+
+Using nested IF and IFS function
+Video•. Duration: 8 minutes
+
+Module summary: preparing data for analysis using functions
+Video•. Duration: 7 minutes

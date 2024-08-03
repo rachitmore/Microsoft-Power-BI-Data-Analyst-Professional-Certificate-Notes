@@ -1,0 +1,43 @@
+This week you are introduced to data display and visualization design principles. This includes instruction on how to create a cohesive report while targeting your designs for a specific audience, and it describes the importance of security in data visualization.
+
+Course Introduction
+Video•. Duration: 6 minutes6 min
+
+Great data visualization
+Video•. Duration: 2 minutes2 min
+
+Introduction to color theory
+Video•. Duration: 5 minutes5 min
+
+The important role of color
+Video•. Duration: 7 minutes7 min
+
+Positioning and scale of information
+Video•. Duration: 4 minutes4 min
+
+Positioning and Information Density
+Video•. Duration: 6 minutes6 min
+
+Chaotic versus cohesive pages
+Video•. Duration: 6 minutes6 min
+
+Creating Cohesion
+Video•. Duration: 5 minutes5 min
+
+Knowing the audience
+Video•. Duration: 6 minutes6 min
+
+Age related Design
+Video•. Duration: 4 minutes4 min
+
+Prioritizing key information
+Video•. Duration: 5 minutes5 min
+
+Security in Data
+Video•. Duration: 9 minutes9 min
+
+The real world impact
+Video•. Duration: 3 minutes3 min
+
+Module Summary: Visualization and Design
+Video•. Duration: 9 minutes9 min

@@ -1,0 +1,31 @@
+This module explores the optimization process and examines the tools and methods to achieve this in Power BI, including using performance analyzer and DirectQuery features. This module also dives deeper into DAX and its use in the real world.
+
+What is optimization and why is it necessary?
+Video•. Duration: 6 minutes
+
+Optimization by example
+Video•. Duration: 6 minutes
+
+Resolving performance issues in the data model
+Video•. Duration: 4 minutes
+
+Identifying and reducing cardinality levels
+Video•. Duration: 5 minutes
+
+Behavior and limitations of DirectQuery connections
+Video•. Duration: 6 minutes
+
+Optimizing DirectQuery performance with query reductions
+Video•. Duration: 3 minutes
+
+Optimizing DirectQuery performance with table storage
+Video•. Duration: 5 minutes
+
+What are aggregations and why use them?
+Video•. Duration: 5 minutes
+
+Creating an aggregation
+Video•. Duration: 5 minutes
+
+Module summary: Optimize a model for performance in Power BI
+Video•. Duration: 7 minutes

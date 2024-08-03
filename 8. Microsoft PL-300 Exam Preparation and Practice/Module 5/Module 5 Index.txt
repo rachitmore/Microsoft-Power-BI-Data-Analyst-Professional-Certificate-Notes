@@ -1,0 +1,22 @@
+In this module, you’ll also have access to resources that will help you to prepare for the Microsoft Exam PL-300: Microsoft Power BI Data Analyst.
+
+Introduction to the PL-300 Exam
+Video•. Duration: 5 minutes5 min
+
+Understanding Microsoft Copilot
+Video•. Duration: 6 minutes6 min
+
+Understanding Copilot for Power BI Specialists
+Video•. Duration: 5 minutes5 min
+
+Enhancing Report Design with AI-assisted Tasks
+Video•. Duration: 3 minutes3 min
+
+Mastering DAX Formulas with Copilot
+Video•. Duration: 6 minutes6 min
+
+Congratulations
+Video•. Duration: 5 minutes5 min
+
+Day in the life
+Video•. Duration: 3 minutes3 min

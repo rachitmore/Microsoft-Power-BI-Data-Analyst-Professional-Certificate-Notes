@@ -1,0 +1,58 @@
+This week you explore the principles of cohesive design and discover how good design improves the user experience and comprehension of data.
+
+Clarity and visual impact in charts
+Video•. Duration: 4 minutes4 min
+
+Design Power BI reports for accessibility
+Video•. Duration: 5 minutes5 min
+
+Clarity and impact
+Video•. Duration: 5 minutes5 min
+
+Creating and formatting a KPI Chart
+Video•. Duration: 5 minutes5 min
+
+Dot plot chart in Power BI
+Video•. Duration: 5 minutes5 min
+
+Visualising high density multi-dimensional data
+Video•. Duration: 5 minutes5 min
+
+Advanced Display
+Video•. Duration: 4 minutes4 min
+
+Optimizing Report layout for mobile
+Video•. Duration: 6 minutes6 min
+
+Shape Map Visuals
+Video•. Duration: 5 minutes5 min
+
+Choropleth maps
+Video•. Duration: 4 minutes4 min
+
+Choropleth maps in Action
+Video•. Duration: 5 minutes5 min
+
+Tips on Map visualizations
+Video•. Duration: 5 minutes5 min
+
+Accessing the Map
+Video•. Duration: 2 minutes2 min
+
+Compare and Contrast Shape and Filled maps
+Video•. Duration: 6 minutes6 min
+
+Power BI Azure maps
+Video•. Duration: 4 minutes4 min
+
+Identifying a new market
+Video•. Duration: 3 minutes3 min
+
+What are custom visualizations?
+Video•. Duration: 5 minutes5 min
+
+Adding a Python-based visualization
+Video•. Duration: 5 minutes5 min
+
+Module Summary: Designing Powerful Report Pages
+Video•. Duration: 6 minutes6 min

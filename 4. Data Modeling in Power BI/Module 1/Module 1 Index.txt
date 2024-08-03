@@ -1,0 +1,41 @@
+This module introduces data modeling and the schemas used to create them.
+
+Course introduction
+Video•. Duration: 4 minutes
+
+Introduction to data models
+Video•. Duration: 4 minutes
+
+Introduction to schemas
+Video•. Duration: 6 minutes6 min
+
+Setting up a Flat schema in Power BI
+Video•. Duration: 4 minutes
+
+Understanding fact and dimension tables
+Video•. Duration: 3 minutes
+
+Introduction to cardinality
+Video•. Duration: 5 minutes
+
+Introduction to cross-filter direction
+Video•. Duration: 4 minutes
+
+Defining data granularity
+Video•. Duration: 5 minutes
+
+Setting up a Star schema in Power BI
+Video•. Duration: 5 minutes
+
+
+Setting up a Snowflake schema
+Video•. Duration: 6 minutes
+
+Why it is important to use Snowflake schema
+Video•. Duration: 4 minutes
+
+Resolving challenges in data models
+Video•. Duration: 5 minutes
+
+Module summary: Concepts for data modeling
+Video•. Duration: 6 minutes

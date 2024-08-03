@@ -1,0 +1,25 @@
+This module introduces the learner to data collection, data sources, the ETL process and the importance of evaluating data for analysis
+
+Identifying and evaluating required data
+Video•. Duration: 6 minutes6 min
+
+Workflow in Power BI
+Video•. Duration: 4 minutes4 min
+
+The ETL (Extract, Transform, Load) process
+Video•. Duration: 6 minutes6 min
+
+Ingesting and gathering data
+Video•. Duration: 6 minutes6 min
+
+Storing and managing data
+Video•. Duration: 6 minutes6 min
+
+Transforming and cleaning data
+Video•. Duration: 5 minutes5 min
+
+What is Power Query?
+Video•. Duration: 5 minutes5 min
+
+Module summary: The right tools for the job
+Video•. Duration: 4 minutes4 min

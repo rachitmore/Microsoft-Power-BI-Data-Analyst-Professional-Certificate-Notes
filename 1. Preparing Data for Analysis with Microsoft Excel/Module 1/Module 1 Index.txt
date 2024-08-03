@@ -1,0 +1,37 @@
+This module introduces essential Excel elements and techniques begininning with the creation and formatting of worksheets. It explores the Excel features that are useful when viewing large data blocks and explains how to create accurate calculations.
+
+Introduction to the program
+Video•. Duration: 5 minutes
+
+Course introduction: Preparing data for analysis with Microsoft Excel
+Video•. Duration: 3 minutes
+
+Day in the life
+Video•. Duration: 3 minutes
+
+Welcome to Generative AI for everyone
+Video•. Duration: 6 minutes
+
+Understanding the Capabilities of Generative AI for Business Functions
+Video•. Duration: 9 minutes
+
+Generative AI - Under the hood
+Video•. Duration: 7 minutes
+
+The potential pitfalls and shortcomings of GEN AI
+Video•. Duration: 6 minutes
+
+Introduction to Microsoft Excel
+Video•. Duration: 6 minutes
+
+Entering and formatting data
+Video•. Duration: 6 minutes
+
+Reading large data blocks
+Video•. Duration: 6 minutes
+
+Sorting and filtering data in Excel
+Video•. Duration: 7 minutes
+
+Module summary: Excel fundamentals
+Video•. Duration: 3 minutes

@@ -1,0 +1,28 @@
+In this module, you'll set up data sources and explore the different data source capabilities in Power BI.
+
+Course Introduction
+Video•. Duration: 5 minutes5 min
+
+How combining data sources gives business insights
+Video•. Duration: 5 minutes5 min
+
+Setting up a flat data source
+Video•. Duration: 3 minutes3 min
+
+Storage modes in Power BI
+Video•. Duration: 7 minutes7 min
+
+Configuring storage modes in Power BI
+Video•. Duration: 4 minutes4 min
+
+Structured vs. unstructured data
+Video•. Duration: 7 minutes7 min
+
+What are connectors?
+Video•. Duration: 6 minutes6 min
+
+Triggers and actions
+Video•. Duration: 6 minutes6 min
+
+Module summary: Data sources in Power BI
+Video•. Duration: 4 minutes4 min
